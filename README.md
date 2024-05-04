@@ -1,4 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+## Aim:
+To implement the Classical Planning Algorithm.
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
